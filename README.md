@@ -2,6 +2,8 @@
 
 Small, runnable examples against the live API. Every one needs a key from [gandr.ai](https://gandr.ai).
 
+**Pricing:** unlimited, unmetered stream plans from **$150/mo** (annual), or **$10 per million characters** pay as you go — [gandr.ai/pricing](https://gandr.ai/pricing).
+
 | Example | Shows |
 |---|---|
 | `batch_ivr.py` | Batch-render an IVR prompt library with the Python SDK |
