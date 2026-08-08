@@ -7,7 +7,7 @@ Small, runnable examples against the live API. Every one needs a key from [gandr
 | Example | Shows |
 |---|---|
 | `batch_ivr.py` | Batch-render an IVR prompt library with the Python SDK |
-| `streaming_ws.py` | The WebSocket lane, first audio byte in ~116 ms (p50, server-side, warm), the lane voice agents use |
+| `streaming_ws.py` | The WebSocket lane, audio streams back as it is generated, the lane voice agents use |
 | LiveKit agent | See [Gandr-AI/gandr-livekit](https://github.com/Gandr-AI/gandr-livekit), full plugin + template |
 | MCP agents | See [Gandr-AI/gandr-mcp](https://github.com/Gandr-AI/gandr-mcp) |
 
