@@ -15,4 +15,4 @@ for name, text in PROMPTS.items():
     audio = g.say(text, voice="gandr-jenny", temperature=0.6, cfg_weight=0.5)
     with open(f"{name}.wav", "wb") as f:
         f.write(audio)
-    print(f"{name}.wav — {len(audio)} bytes")
+    print(f"{name}.wav, {len(audio)} bytes")
