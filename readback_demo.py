@@ -5,7 +5,7 @@ Order IDs, dates, phone numbers, addresses: the exact text shapes a voice agent
 has to say out loud and most speech APIs mangle. Renders four of them to WAV.
 
     pip install gandr
-    export GANDR_API_KEY=gnd_...   # free key, 100,000 tokens, no card: https://gandr.ai
+    export GANDR_API_KEY=gnd_...   # free key, 50,000 tokens: https://gandr.ai
     python readback_demo.py
 """
 import os
