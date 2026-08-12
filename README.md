@@ -1,6 +1,6 @@
 # Gandr examples
 
-Run a voice agent line in one minute. Every example needs a key from [gandr.ai](https://gandr.ai): the free key starts at 50,000 tokens, no card. Break something and we want to hear it: open an issue.
+Run a voice agent line in one minute. Every example needs a key from [gandr.ai](https://gandr.ai): the free key starts at 50,000 tokens. Break something and we want to hear it: open an issue.
 
 | Example | Shows |
 |---|---|
